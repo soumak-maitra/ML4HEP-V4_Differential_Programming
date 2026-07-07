@@ -67,11 +67,4 @@ data/
 
 If your downloaded CAMELS directory has a different folder name, either rename the local directory or update `DATA_ROOT` and `SPECTRA_FOLDER` inside the notebook.
 
-## Running the notebooks
-
-Run the notebooks in this order:
-
-1. `Autograd_tutorial.ipynb`
-2. `Cosmological_Inference_exercise.ipynb`
-
 The first notebook introduces the differentiable-programming concepts needed for the second. The second notebook assumes that the CAMELS spectra files are already available locally.
